@@ -1,12 +1,15 @@
-# expand-collapse-readme
+# Expand-collapse-readme
+
+Sometime we need to add expand/collapse section in our README file. I created this repo to quickly check README changes.
+
 
 # A collapsible section containing markdown
 <details>
   <summary>Click to expand!</summary>
   
   ## Heading
-  1. A numbered
-  2. list
+  1. Heading 1
+  2. Heading 2
      * With some
      * Sub bullets
 </details>
